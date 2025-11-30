@@ -144,7 +144,7 @@ The ultimate goal is to collect **three ancient Lanterns**, each protected by en
 We welcome player feedback and suggestions to improve future updates.  
 Report issues or contribute to development via the GitHub repository.
 
-📧 **Contact:** *(Add email or support link here)*
+📧 **Contact:** *https://codingmaster24.itch.io/windlight-island*
 
 ---
 

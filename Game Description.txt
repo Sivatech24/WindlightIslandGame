@@ -1,0 +1,21 @@
+Windlight Island is a serene third-person exploration and puzzle adventure set on a tranquil Mediterranean-inspired island. Designed for players who enjoy peaceful discovery and atmospheric storytelling, the game offers a calming world where nature, wind, and ancient ruins shape a journey of quiet reflection.
+
+As the lone traveler arriving on Windlight Island, you embark on a quest to restore balance to the land by collecting mystical Lanterns hidden across forests, cliffs, and sunlit hilltops. Guided only by natural elements and the whisper of the wind, you’ll solve environmental and wind-based puzzles, interact with ancient mechanisms, and uncover remnants of a forgotten civilization.
+
+There are no enemies and no combat only exploration, thoughtful puzzle-solving, and immersive natural beauty. The experience focuses on presence, curiosity, and connection to the environment.
+
+Built in Unreal Engine 5, Windlight Island features breathtaking vistas powered by Nanite detailed geometry and Lumen real-time global illumination, creating a visually stunning world filled with life, atmosphere, and gentle environmental storytelling.
+
+Whether gliding the wind across rivers, walking through rustling olive groves, or entering a glowing ancient cave, every step deepens the mystery and serenity of the island.
+
+Core Experience
+
+✨ A relaxing adventure free from combat
+🌬 Wind-powered puzzles & environmental mechanics
+🌿 A beautifully crafted Mediterranean world
+🕯 Collect mystical Lanterns to unlock ancient secrets
+🎧 Immersive nature soundscapes & ambient audio
+📜 Discover the past through world design rather than dialogue
+🎮 Designed for calm exploration and meditative gameplay
+
+Windlight Island is not about defeating enemies, but about restoring harmony to the island, and to yourself.

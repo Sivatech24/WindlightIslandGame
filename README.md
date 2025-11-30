@@ -155,3 +155,46 @@ Your interest and feedback help bring peaceful gaming experiences to life.
 > _“Sometimes the quietest paths lead to the most remarkable destinations.”_
 
 **Enjoy your journey through Windlight Island. 🌬**
+
+⚖️ Legal Disclaimer
+
+Windlight Island is a student/indie game development project created for educational, learning, and portfolio purposes.
+All rights to original code, gameplay mechanics, level design, and world concepts belong to the CodingMaster24 Team.
+This repository and game build are provided as-is without warranty of any kind.
+
+📦 Third-Party Assets
+
+The project makes use of assets obtained legally from:
+
+Epic Games / Fab Marketplace
+
+Pixabay (Royalty-free sound effects)
+
+All third-party assets included in this project are the intellectual property of their respective creators and are licensed for use only within packaged builds.
+These assets may not be extracted, reused, modified, resold, or redistributed in any form.
+
+🚫 Prohibited Without Permission
+
+Re-uploading or redistributing the original assets (.uasset files, textures, models, audio, etc.)
+
+Using the assets in other projects, commercial or non-commercial
+
+Reverse-engineering or extracting marketplace content from the packaged game
+
+Selling, sublicensing, or commercially exploiting any part of the project
+
+✔ Allowed Under License
+
+Downloading and playing the packaged game build for personal enjoyment or educational research
+
+Sharing gameplay recordings, screenshots, or reviews with proper credit
+
+Forking or studying the repository code (if available) without copying assets
+
+This project is licensed under the:
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0)
+
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+© Windlight Island and CodingMaster24 Team — All Rights Reserved.

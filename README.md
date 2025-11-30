@@ -1,12 +1,12 @@
 # 🌬️ **Windlight Island**
 ### A Meditative Third-Person Exploration & Puzzle Adventure  
-Developed by **BreakItDown Team** | Powered by **Unreal Engine 5**
+Developed by **CodingMaster24 Team** | Powered by **Unreal Engine 5**
 
 ---
 
 ## 🏝️ **Overview**
 
-**Windlight Island** is a third-person atmospheric exploration and puzzle adventure set on a tranquil Mediterranean-inspired island.  
+**Windlight Island** is a third person atmospheric exploration and puzzle adventure set on a tranquil Mediterranean inspired island.  
 Players embark on a peaceful journey through sunlit landscapes, forgotten ruins, and natural environments shaped by wind, water, and time. Without the presence of combat or enemies, the experience focuses entirely on **mindful discovery, environmental interaction, and calm exploration**.
 
 Guided only by the elements, the player must collect **mystical lanterns** scattered across the island and activate an ancient shrine to restore balance to the land. Through scenic paths, wind-based physics puzzles, and gentle audio environments, **Windlight Island** invites players to slow down and reconnect with nature.
@@ -16,8 +16,8 @@ The game is built in **Unreal Engine 5.6**, utilizing **Nanite virtualized geome
 ---
 
 ## ✨ **Key Features**
-- 🌿 **Peaceful Exploration Experience** — No combat, no rush, just calm discovery
-- 🌬 **Wind-Based Puzzle Mechanics** — Use environmental wind power to move objects and solve challenges
+- 🌿 **Peaceful Exploration Experience**  No combat, no rush, just calm discovery
+- 🌬 **Wind-Based Puzzle Mechanics**  Use environmental wind power to move objects and solve challenges
 - 🔦 **Mystical Lantern Collection System**
 - 🏞 **Mediterranean Coastal World** with ancient ruins and scenic vistas
 - 🌀 **Dynamic Wind & Physics Interaction**
@@ -77,7 +77,7 @@ The ultimate goal is to collect **three ancient Lanterns**, each protected by en
 | Type | Link |
 |-------|------|
 | 🌐 **Official Webpage** | https://sivatech24.github.io/windlightisland/ |
-| 🕹 **Playable Game Build (Drive Download)** | *(Add Drive URL here)* |
+| 🕹 **Playable Game Build** | https://codingmaster24.itch.io/windlight-island |
 | 🎮 **Play on Itch.io** | https://codingmaster24.itch.io/windlight-island |
 | 💻 **GitHub Repository** | https://github.com/Sivatech24/windlightisland |
 
@@ -88,10 +88,10 @@ The ultimate goal is to collect **three ancient Lanterns**, each protected by en
 
 | Video | URL |
 |--------|-----|
-| Windlight Island Trailer | https://youtube.com/watch?v=TRAILER_DEMO |
-| Gameplay Showcase | https://youtube.com/watch?v=GAMEPLAY_DEMO |
-| Full Gameplay Walkthrough | https://youtube.com/watch?v=WALKTHROUGH_DEMO |
-| Cinematic Intro | https://youtube.com/watch?v=INTRO_DEMO |
+| Windlight Island Trailer | https://youtu.be/_EJ3-9MVkk0 |
+| Gameplay Showcase | https://youtu.be/ENmI7gHYot4 |
+| Full Gameplay Walkthrough | https://youtu.be/oiLJFeL1c1U |
+| Cinematic Intro | https://youtu.be/RSEtcHDDhcg |
 
 ---
 
@@ -104,14 +104,14 @@ The ultimate goal is to collect **three ancient Lanterns**, each protected by en
 - Stylized Ground & Terrain  
 - Stylized Grassland Environment  
 
-*(Direct links originally sourced from Epic Games Fab — see project for asset packs)*
+*(Direct links originally sourced from Epic Games Fab see project for asset packs)*
 
 ---
 
 ## 🔊 **Audio & Sound Resources (Pixabay)**
 - Forest Ambience
 - Walking Footsteps (Leaves, Gravel, Wood, Concrete)
-- Forest Atmosphere — Poland
+- Forest Atmosphere Poland
 - Flowing Water
 - Collect Coin
 - Rock Cinematic
@@ -132,9 +132,9 @@ The ultimate goal is to collect **three ancient Lanterns**, each protected by en
 ## 👥 **Game Credits**
 | Role | Name |
 |------|------|
-| Development Team | **BreakItDown Team** |
-| Game Design | BreakItDown Studio |
-| Technical Implementation | BreakItDown |
+| Development Team | **CodingMaster24 Team** |
+| Game Design | CodingMaster24 Studio |
+| Technical Implementation | CodingMaster24 |
 | Environmental Art | Fab Marketplace Assets |
 | Sound Design | Pixabay Licensed Sounds |
 
